@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SoniaGRVL/todo/static/css/main.72eccef6.css",
-    "main.js": "/SoniaGRVL/todo/static/js/main.5c2ca2aa.js",
-    "index.html": "/SoniaGRVL/todo/index.html",
-    "main.72eccef6.css.map": "/SoniaGRVL/todo/static/css/main.72eccef6.css.map",
-    "main.5c2ca2aa.js.map": "/SoniaGRVL/todo/static/js/main.5c2ca2aa.js.map"
+    "main.css": "/todo/static/css/main.72eccef6.css",
+    "main.js": "/todo/static/js/main.5c2ca2aa.js",
+    "index.html": "/todo/index.html",
+    "main.72eccef6.css.map": "/todo/static/css/main.72eccef6.css.map",
+    "main.5c2ca2aa.js.map": "/todo/static/js/main.5c2ca2aa.js.map"
   },
   "entrypoints": [
     "static/css/main.72eccef6.css",
